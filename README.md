@@ -85,7 +85,6 @@ Generated statistics summary for the cleaned dataset
 
 # Conclusion
 
-Conclusion
 
 The model can be improved by using the entire data set instead of a portion of the data set only. We can also increase our Precision and Recall Accuracy. This can be done by using the entire training set and compare it to test set, instead of splitting our train set into both train and test. Another alternative to improve our model is to use feature engineering by taking the title of the passangers names and use that as a feature, such as Dr. Mrs. Mr etct. Perhaps the cabing letter can also be a feature. The Ticket can also be explored for any possible feature engineering
 
