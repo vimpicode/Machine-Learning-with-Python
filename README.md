@@ -64,14 +64,22 @@ Explored the data and found that the "Age" and "Cabin" columns have missing valu
 
 3. Dropped the "ticket" and "name" columns since they are not particularly relevant to our analysis.
 
-## Summary Statistics of the new data set
 
+![](https://github.com/vimpicode/Machine-Learning-with-Python/blob/main/No%20Missing%20Values.png)
+
+
+
+## Summary Statistics of the new data set
+Generated statistics summary for the cleaned dataset
 
 # Model Building
 
 1-Split the data into train and test
+
 2-Created a Logistic Regression using Logistic Regression using sklearn.linear_model.
+
 3-Fit the Model
+
 3-Model Evaluation
 
 
