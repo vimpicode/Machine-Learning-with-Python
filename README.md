@@ -39,6 +39,8 @@ There are several features present in this data frame:
 
 ![](https://github.com/vimpicode/Machine-Learning-with-Python/blob/main/1.png)
 
+![](https://github.com/vimpicode/Machine-Learning-with-Python/blob/main/2.png)
+
 
 
 
