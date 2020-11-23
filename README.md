@@ -6,10 +6,15 @@ Our data set comes from the "Titanic: Machine Learning from Disaster" https://ww
 
 # Libraries
 1.Pandas
+
 2.Numpy
+
 3.Matplotlib
+
 4.Seaborn
+
 5.Scikit-learn
+
 
 # Exploratory Data Analysis (EDA)
 There are several features present in this data frame:
@@ -98,5 +103,7 @@ Kaggle Database : https://www.kaggle.com/c/titanic
 "Logistic Regression Explained" by Jaime  Zornoza https://towardsdatascience.com/logistic-regression-explained-9ee73cede081
 
 "7 Ways to Handle Missing Values in Machine Learning" by Satyam Kumar https://towardsdatascience.com/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e
+
+Thank you
 
 
