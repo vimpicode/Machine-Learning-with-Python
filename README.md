@@ -37,6 +37,8 @@ There are several features present in this data frame:
 
 ## Data Visualization
 
+![](https://github.com/vimpicode/Machine-Learning-with-Python/blob/main/1.png)
+
 
 
 
