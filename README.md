@@ -47,12 +47,17 @@ There are several features present in this data frame:
 
 
 
+## Missing Values
+
+Explored the data and found that the "Age" and "Cabin" columns have missing values. More so for the "Cabin" than the "Age"
 
 ## Data Cleaning
 
-Performed data cleaning for the "Age" variable using Imputation.
-Dropped the "Cabin" column since it had too many missing values.
-Dropped the "ticket" and "name" columns since they are not particularly relevant to our analysis.
+1. Performed data cleaning for the "Age" variable using Imputation.
+
+2. Dropped the "Cabin" column since it had too many missing values.
+
+3. Dropped the "ticket" and "name" columns since they are not particularly relevant to our analysis.
 
 ## Summary Statistics of the new data set
 
