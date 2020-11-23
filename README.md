@@ -49,7 +49,12 @@ There are several features present in this data frame:
 
 ## Missing Values
 
+
 Explored the data and found that the "Age" and "Cabin" columns have missing values. More so for the "Cabin" than the "Age"
+
+![](https://github.com/vimpicode/Machine-Learning-with-Python/blob/main/Missing%20Values.png)
+
+
 
 ## Data Cleaning
 
